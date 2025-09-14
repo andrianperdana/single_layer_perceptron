@@ -37,12 +37,9 @@ Setelah melatih model selama **200 epoch** dengan _learning rate_ **0.1**, didap
 
 ### Grafik Pelatihan
 
-Berikut adalah grafik _loss_ dan akurasi selama proses pelatihan pada _training set_.
+Berikut adalah grafik _loss_ dan akurasi selama proses pelatihan.
 
-**Binary Cross-Entropy Loss per Epoch**
 
-![loss_per_epoch.png](loss_per_epoch.png)
+![sheet_logic_plots.png](sheet_logic_plots.png)
 
-**Accuracy per Epoch**
 
-![accuracy_per_epoch.png](accuracy_per_epoch.png)
